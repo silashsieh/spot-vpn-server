@@ -1,0 +1,7 @@
+# Runtime files — created by the scripts, must never be committed
+.vpn-state
+.vpn-config
+spot-vpn-client.conf
+
+# macOS
+.DS_Store
