@@ -34,6 +34,7 @@ That's the complete inventory. No static IPs, no snapshots, no images. `destroy-
 |---|---|
 | Japan (Tokyo) | `asia-northeast1` |
 | Taiwan | `asia-east1` |
+| Singapore | `asia-southeast1` |
 | Germany (Frankfurt) | `europe-west3` |
 | US (Oregon) | `us-west1` |
 

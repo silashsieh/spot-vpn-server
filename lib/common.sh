@@ -18,6 +18,7 @@ FIREWALL_RULE="spot-vpn-allow-wireguard"
 COUNTRIES=(
   "jp|asia-northeast1|Japan (Tokyo)"
   "tw|asia-east1|Taiwan"
+  "sg|asia-southeast1|Singapore"
   "de|europe-west3|Germany (Frankfurt)"
   "us|us-west1|US (Oregon)"
 )
